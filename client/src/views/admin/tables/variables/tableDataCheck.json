@@ -1,0 +1,14 @@
+[
+  {
+    "name": ["Truck_Delhi", false],
+    "quantity": 2458,
+    "date": "12.Jan.2021",
+    "progress": 100.0
+  },
+  {
+    "name": ["Truck_Haryana", true],
+    "quantity": 1485,
+    "date": "21.Feb.2021",
+    "progress": 100.0
+  }
+]
